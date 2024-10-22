@@ -31,5 +31,5 @@ Gem::Specification.new do |spec|
   # we pin these very specifically while we are monkey patching support
   spec.add_dependency 'faraday', '1.4.2'
   spec.add_dependency 'typhoeus', '1.4.0'
-  spec.add_dependency 'ethon', '0.14.0'
+  spec.add_dependency 'ethon', '0.16.0'
 end
